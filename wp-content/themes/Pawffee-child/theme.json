@@ -1,0 +1,35 @@
+{
+    "version": 2,
+    "settings": {
+      "color": {
+        "palette": [
+          { "name": "Pawffee Brown", "slug": "pawffee-brown", "color": "#6F4E37" },
+          { "name": "Soft Beige", "slug": "soft-beige", "color": "#F5E6CA" }
+        ]
+      },
+      "typography": {
+        "fontSizes": [
+          { "name": "Huge", "size": "64px", "slug": "huge" }
+        ]
+      }
+    },
+    "styles": {
+      "typography": {
+        "fontSize": "18px"
+      },
+      "elements": {
+        "heading": {
+          "color": {
+            "text": "#6F4E37"
+          }
+        },
+        "button": {
+          "color": {
+            "background": "#6F4E37",
+            "text": "#FFFFFF"
+          }
+        }
+      }
+    }
+  }
+  
